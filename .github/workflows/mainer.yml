@@ -1,0 +1,10 @@
+name: ollo
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+[![Getting Started](https://github.com/skromn1k/pentru-liubimka/actions/workflows/main.yml/badge.svg)](https://github.com/skromn1k/pentru-liubimka/actions/workflows/main.yml)
